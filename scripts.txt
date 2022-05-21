@@ -1,0 +1,4 @@
+Fly     loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Fly.txt"))()
+Aimbot    loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/WRD%20Aimbot.txt"))()
+Gravity Switch     loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Gravity%20Switch.txt"))()
+Btools     loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/BTools.txt"))()
